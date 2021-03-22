@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on projects of Data Science and ML modeling.
 - 📫 Hit me up with an email! pfaprado@gmail.com
 -  :speech_balloon: Or on stackoverflow: https://stackexchange.com/users/20340665/forastierii?tab=accounts
--  :clipboard: Or check out my resume if you'd like to know about my past experiences:
-https://forastierii.github.io/resume/
+-  :clipboard: Or check out my resume if you'd like to know about my past experiences: https://forastierii.github.io/resume/
 
 <!---
 Forastierii/Forastierii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
