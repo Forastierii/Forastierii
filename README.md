@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning more about deep learning, NoSQL and keeping myself fit.
 - 💞️ I’m looking to collaborate on projects of Data Science and ML modelling.
 - 📫 Hit me up with an email! pfaprado@gmail.com
+- And check out my resume if you'd like to know about my past experiences:
+https://forastierii.github.io/resume/
 
 <!---
 Forastierii/Forastierii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
