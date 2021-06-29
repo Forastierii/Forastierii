@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m Pedro Prado (@Forastierii).
 - 👀 I’m interested in lots of things, most of them related to data, tech and music.
-- 🌱 I’m currently learning more about deep learning (Pytorch), Pyspark and Cloud services. Last but not least, keeping myself fit.
+- 🌱 I’m currently learning more about machine learning, SQL and Cloud services. Last but not least, keeping myself fit.
 - 💞️ I’m looking to collaborate on projects of Data Science and ML modeling.
 - 📫 Hit me up with an email! pfaprado@gmail.com
 -  :speech_balloon: Or on stackoverflow: https://stackexchange.com/users/20340665/forastierii?tab=accounts
